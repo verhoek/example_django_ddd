@@ -1,0 +1,1 @@
+# showcase_django_ddd
